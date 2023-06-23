@@ -37,26 +37,12 @@ let wibh = moment.tz('Asia/Karachi').format('HH')
       year: 'numeric'
     })
       
-    
-/*============== SOCIAL ==============*/
-
-// if you don't have it, type "-" or leave it alone so that there are credits :v
-global.sig = 'https://instagram.com/itx_ahmad.ali' //Link Instagrammu
-global.sgh = 'https://github.com/xIKRATOSx' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/DxIb5oWzpg24mmg9D9zw5Y'
-global.sdc = '-' //Fill it out using the Discord link, if there is one, just leave it
-global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, This is up to you to fill in :v
-
-/*============== PAYMENT ==============*/
-global.pdana = '085736178354' //Nomor Danamu
-global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
-global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '68673045381' //Nomor Bot
-global.nomorown = '923470027813' //Nomor Owner
+global.nomorbot = '01033024135' //Nomor Bot
+global.nomorown = '01033024135' //Nomor Owner
 global.namebot = 'Ikratos-MD-v1' //Nama Bot
-global.nameown = 'ᴀʜᴍᴀᴅ ᴀʟɪ🇵🇰' // Nama Owner
+global.nameown = 'socona' // Nama Owner
 
 
 /*============== CHATGPT ==============*/
@@ -65,11 +51,11 @@ global.org = 'PASTE_YOUR_ORG_HERE'   // Get you Org-Key from 'https://platform.o
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['923470027813', 'ᴀʜᴍᴀᴅ ᴀʟɪ🎐', true] //don't change this name and number
-  ['19293514545', 'ᴀʜᴍᴀᴅ ᴀʟɪ🎐', false] //Replace your name and number here
+  ['01033024135', 'socona🎐', true] //don't change this name and number
+  ['01033024135', 'socona🎐', false] //Replace your name and number here
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = ['923470027813',''] //Don't replace this,If you want to add someone add any dev
+global.mods = ['01033024135',''] //Don't replace this,If you want to add someone add any dev
 global.prems = [] // Premium user is not here to add it, type .addprem @ user 10
 
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
